@@ -6,7 +6,7 @@
 <br><p align="centre">C# | Java | Genero FourJs | Computer Engineer</b></p>  
 </div>
 
-<p>Currently I develop ERPs in Java/FourJs Genero language and work with IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for workflow. I graduated in Computer Engineering and did my post graduation in I.T. Project Management.</p>  
+<p>Currently I develop ERPs in FourJs Genero language and work with IBM Informix database. I use GitLab for versioning control and Kanban and Scrum for workflow. I graduated in Computer Engineering and did my post graduation in I.T. Project Management.</p>  
 
 <br>
 
