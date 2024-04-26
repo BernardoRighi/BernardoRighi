@@ -6,7 +6,7 @@
 <br><p align="centre"> Genero FourJs |C# | Java | Computer Engineer</b></p>  
 </div>
 
-<p>I currently develop ERPs in the FourJs Genero language and work with the IBM Informix database. I use GitLab for version control and Kanban and Scrum for workflow. I have a degree in Computer Engineering and a postgraduate degree in IT Project Management and Data Science and Artificial Intelligence.</p>  
+<p>Through my company, BETEC Consultoria e Desenvolvimento de Software, I develop ERPs in the FourJs Genero language and work with the IBM Informix database. I use GitLab for version control and Kanban and Scrum for workflow. I have a degree in Computer Engineering and postgraduate degrees in IT Project Management and Data Science and Artificial Intelligence.</p>  
 
 <br>
 
