@@ -39,7 +39,9 @@
 <br>
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoRighi&theme=github_dark" />
+<div align="center">  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoRighi&theme=github_dark" />
+</div>
 
 <div align="center">  
   <img src="https://streak-stats.demolab.com?user=BernardoRighi&theme=dark" />
