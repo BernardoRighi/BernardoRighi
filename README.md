@@ -42,8 +42,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoRighi&theme=github_dark" />
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=BernardoRighi&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=6495ED&text_color=c9d1d9&bg_color=0d1117" alt="Bernardo Prina Righi github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardoRighi&layout=compact&hide_border=true&title_color=6495ED&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=BernardoRighi&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoRighi&theme=github_dark" />
 </div>
 
 <br>
