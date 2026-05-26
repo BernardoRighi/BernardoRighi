@@ -41,14 +41,14 @@
 
 <div align="center">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoRighi&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=BernardoRighi&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoRighi&theme=github_dark" />
 </div>
 
 <br>
 <br>
 
 <div align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoRighi&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=BernardoRighi&theme=dark" />
 </div>
 
 <br>
