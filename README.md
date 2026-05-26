@@ -40,15 +40,15 @@
 <br>
 
 <div align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoRighi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoRighi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BernardoRighi&theme=tokyonight"/>
 </div>
 
 <br>
 <br>
 
 <div align="center">  
-  <img src="https://streak-stats.demolab.com?user=BernardoRighi&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=BernardoRighi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BernardoRighi&theme=tokyonight"/>
 </div>
 
 <br>
